@@ -1,0 +1,1 @@
+This is a simple build of the maplins robotic arm. Overall it took 3 hours to complete. I was then able to plug it into my raspberry Pi. Once pluged in I was able to follow some simple guides online to move the arm in python. 
